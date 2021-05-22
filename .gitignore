@@ -2,3 +2,9 @@
 .idea/
 
 .DS_Store
+
+data/
+submissions/
+bdd100k/
+*.pt
+*.zip
